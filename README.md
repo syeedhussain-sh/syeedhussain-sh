@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 B.E. Electronics and Communication Engineering (ECE) student interested in Embedded Systems, IoT, Artificial Intelligence, and Digital Electronics.
 
